@@ -17,8 +17,8 @@ The data set I am using is an "Internet Advertisements Data Set" from UCI Machin
 
 
 # Built With:
-- python
-- matplot
+- Python
+- Matplotlib
 
 # Pictures:
 ### **Here are some the resulting data plots of the accuracy .**
